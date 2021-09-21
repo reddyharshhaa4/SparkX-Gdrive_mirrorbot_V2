@@ -380,7 +380,7 @@ class GoogleDriveHelper:
                     return "your clone has been stopped and cloned data has been deleted!", "cancelled"
                 msg += f'<b>☞ 📂Filename : </b><code>{meta.get("name")}</code>\n<b>Size: </b><code>{get_readable_file_size(self.transferred_size)}</code>'
                 msg += f'\n<b>☞ 🌀Type : </b><code>Folder</code>'
-                msg += f'\n<b>☞ Powerd by : @AT_BOTs</b>'
+                msg += f'\n<b>☞ Powerd by : @SparkXcloud</b>'
                 buttons = button_build.ButtonMaker()
                 if SHORTENER is not None and SHORTENER_API is not None:
                     surl = requests.get(f'https://{SHORTENER}/api?api={SHORTENER_API}&url={durl}&format=text').text
@@ -417,7 +417,7 @@ class GoogleDriveHelper:
                     typeee = 'File' 
                 try:
                     msg += f'\n<b>☞ 📦Size : </b><code>{get_readable_file_size(int(meta.get("size")))}</code>'
-                    msg += f'\n<b>☞ 🗳Powerd by : @AT_BOTS</b> '
+                    msg += f'\n<b>☞ 🗳Powerd by : @SparkXcloud</b> '
                 except TypeError:
                     pass
                 if INDEX_URL is not None:
@@ -678,7 +678,7 @@ class GoogleDriveHelper:
                 msg += f'<b>☞ 📂Filename : </b><code>{name}</code>'
                 msg += f'\n<b>☞ 📦Size : </b><code>{get_readable_file_size(self.total_bytes)}</code>'
                 msg += f'\n<b>☞ 🌀Type : </b><code>Folder</code>'
-                msg += f'\n<b>☞ 🗳Powered by : @AT_BOTs</b>'
+                msg += f'\n<b>☞ 🗳Powered by : @SparkXcloud</b>'
             else:
                 msg += f'<b>☞ 📂Filename : </b><code>{name}</code>'
                 try:
@@ -690,7 +690,7 @@ class GoogleDriveHelper:
                     self.gDrive_file(**drive_file)
                     msg += f'\n<b>☞ 📦Size : </b><code>{get_readable_file_size(self.total_bytes)}</code>'
                     msg += f'\n<b>☞ 🌀Type : </b><code>{typee}</code>'
-                    msg += f'\n<b>☞ 🗳Powered by : @AT_BOTs</b>'
+                    msg += f'\n<b>☞ 🗳Powered by : @SparkXcloud</b>'
                 except TypeError:
                     pass
         except Exception as err:
