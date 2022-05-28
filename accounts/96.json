@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sparkxcloud-mirrorfiles-v4",
+  "private_key_id": "23a9ea354b0894f19a285b468902ab12d6ed2a59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwAMFIa2kEkJGl\nz1Yhj1zHKJxlKLTy+fRZ1csF55INX0rizmkKf1wIhfRaAuM77d2GMlPw6f3O2CmK\nBqiY2H9vgpxSXSU7nIKFnwmEs4QjivEC718IjIEatVA7Tjgrdh5NyWzzttV3khmd\nvIVTdpeRQCOHJkFQy50KSL6VGJrig/7CNJ7i1OwIbr+auix3xqUzGYz6RqREhS88\nVRaWk0CNv9AvQPlrXAXTtJnPFvJGrEzl/aVdfYnsbZKA9lOrRPL+WS+8NKT15Vfn\nwp+YS0B+FbkapxMMWHoItMhNBMXNXSraIKj3JWiqaaQhxSgru1bY58+feVUsv9d/\n17LR1ATHAgMBAAECggEADtvUIDCNOlOYMDw7rx6i0bTbK0EksaSqMpFgOqc3sdr7\nKqsMEX+kvfAigRzgS+rDenUHmChbre7wPCpevnSnTDs7G6BTKIqzNuOxJ9uzSqrh\nY62LbjXVH8jx3+ffycTcPxXuavmNtl1bvfDbUqte6rt++bB1mtltxcn+vlNISYTW\nVQS8P0hK3dE4oRwJ/QU5vwESHXwiXvse8cA3Td1cIRcksFcLdb+rNE+0Mybokj5K\n1Pc3GkA3PiaK/JjflGgrOniLSDeXyYsDpjORtC9DHz7RH33FQNfHRsviV2Dj0YyK\n+01vUnzWmC+Yc/oPUNYgU0crULYu/8bNS9RsqqKQTQKBgQDiA03q2eRMcLIEurtz\nMrkiS9QjZWBXKIgf8fpQYVSzpDxgNzrjwxHdhVd6Lu2G49BjXBgDk04sVwCqBK8F\nWCVK4vZnT+R8NrOmHao41BtRJDRibBtPi4OPUGZnVRQsi21qnsa5LtCabGfRZ+LE\nAkkyUIqys4s08p2nm4U4Bx7xGwKBgQDHWtNN3SjhQlXoIlZaZk2BOiHlL/WdgyF4\nKGyR55LmSJOOl5Z+ENY3c9agRLyJoasKbo6yVx8v4jItrLStolM5pes2I3XUcCER\nNbMjS0eScyddj8ofkOqghhTIWkoymL55Bd4xBpgzYMEWB3JIY8VbsKYo+vHRUw8J\nNGdunNAhxQKBgQC+DBFE3hu+uzS2DV76KzjJwgGMEf7Ey2xLkGnvlShoNj4emdKH\nGsy2/RzlvPg2aPId2p7GwuMFHdONI4sYb1pMcjTIAsIaQNUnZeJxDso5nLv/1u/Q\nH3xs0iqJ0Vy5aDSFZyWrKdZ3Q5i42SYxs8pg6KD4S0lPKIOxIHEQ/8vg6QKBgGN5\noMLTvphYf4Fr0Oce8UGwfkVcnxTP4B2THknX4edjA649Wezh/eKBvPEQG3wZ3b1A\n2ZeH/ZnpJty/txCFVT4I2suS+jLdGML7pr3PzJD5QQVgwJzrtQgQn8Ixu6Bvs2u0\nT+Dqx3urpe2WHaKdlldgWClOvueSqIgRTCNXwEt5AoGAYJafiX9z/9BOkUsDfbbE\nJANcQBtjuuf7BzeRs/ULTQjQqOa42TaGBbEKYrEi7qD1qiwEVTJezUxBsJ9kZF5T\n5XheprA2L2ThawdfvTrLEybKHWYO2MLQayy2FbEbiDWlO2F/ONiYXBqXejQeRfcz\nRJbLHbs2zOekTZz+tFHemyA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-h0d4v8rjmalixigq3a742rp8si@sparkxcloud-mirrorfiles-v4.iam.gserviceaccount.com",
+  "client_id": "105051247685737402633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-h0d4v8rjmalixigq3a742rp8si%40sparkxcloud-mirrorfiles-v4.iam.gserviceaccount.com"
+}
